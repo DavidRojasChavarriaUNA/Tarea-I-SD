@@ -1,0 +1,9 @@
+{
+  "name": "tarea_01",
+  "version": "1.0.0",
+  "description": "Tarea I",
+  "author": "David Rojas",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
